@@ -41,7 +41,7 @@ libsodium_file='libsodium-1.0.18'
 libsodium_url='https://github.com/jedisct1/libsodium/releases/download/1.0.18-RELEASE/libsodium-1.0.18.tar.gz'
 
 mbedtls_file='mbedtls-2.16.6'
-mbedtls_url='https://tls.mbed.org/download/'"$mbedtls_file"'-apache.tgz'
+mbedtls_url='http://sources.buildroot.net/mbedtls/'"$mbedtls_file"'-apache.tgz'
 
 shadowsocks_python_file='shadowsocks-master'
 shadowsocks_python_url='https://github.com/shadowsocks/shadowsocks/archive/master.zip'
