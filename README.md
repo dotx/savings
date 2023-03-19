@@ -1,1 +1,1 @@
-# save-imgs
+# Github storage
